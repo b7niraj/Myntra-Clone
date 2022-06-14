@@ -1,0 +1,29 @@
+.flex{
+    display:flex;
+}
+
+.container{
+    padding: 0 10vw;
+    margin: auto;
+}
+
+.item-centre{
+    align-items: center;
+}
+.justify-centre{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+    font-weight: bolder;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.mx-2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
